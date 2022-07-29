@@ -1,5 +1,16 @@
 # FSL_Relationnet_custom_data
-#i File not updated yet --> 08.01
+
+*File not updated yet --> 08.01*
+*파일 아직 업로드 안했습니다* 
+
+
+# **Index** 
+___
+> Source 
+> Steps to follow
+> How does it work? 
+___
+
 
 # Source 
 Image classification with relation_net with your custom data 
@@ -12,20 +23,13 @@ Image classification with relation_net with your custom data
 - https://arxiv.org/pdf/1904.04232.pdf
 - [ Wei-Yu Chen, Carnegie Mellon University ], [ Yu-Chiang Frank Wang, National Taiwan University ], [ Yen-Cheng Liu & Zsolt Kira, Georgia Tech ] ,
 [ Jia-Bin Huang, Virginia Tech ] 
+- booktitle={International Conference on Learning Representations},
+- year={2019}
 
 ### Learning to Compare: Relation Network for Few-Shot Learning
 - https://arxiv.org/pdf/1711.06025.pdf
 - [ Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales, Queen Mary University of London ,University of Oxford , The University of Edinburgh ] 
 
-which is 
-
-@inproceedings{
-chen2019closerfewshot,
-title={A Closer Look at Few-shot Classification},
-author={Chen, Wei-Yu and Liu, Yen-Cheng and Kira, Zsolt and Wang, Yu-Chiang and  Huang, Jia-Bin},
-booktitle={International Conference on Learning Representations},
-year={2019}
-}
 
 Tree structure of this repository ( img 첨부 ) 
 
@@ -94,4 +98,4 @@ time will be measured using package "time"
 # How does it work? 
 설명 첨부할 것 ! 
 
-
+# 
