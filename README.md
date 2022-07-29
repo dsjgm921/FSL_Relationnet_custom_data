@@ -1,21 +1,20 @@
 # FSL_Relationnet_custom_data
+#i File not updated yet --> 08.01
 
-( File not updated yet --> 08.01 )  
+# Source 
+Image classification with relation_net with your custom data 
+ 
+## This code is modified from wyharveychen's CloserLookFewshot 
+### https://github.com/wyharveychen/CloserLookFewShot
 
-# zb_Img_classification
-( For custom data ) Image classification with relation_net 
-
-# This code is modified from wyharveychen's CloserLookFewshot 
-# https://github.com/wyharveychen/CloserLookFewShot
-
-Research paper from 
-# https://arxiv.org/pdf/1904.04232.pdf
-- A closer look at few shot classification 
+## Research paper from 
+### A closer look at few shot classification 
+- https://arxiv.org/pdf/1904.04232.pdf
 - [ Wei-Yu Chen, Carnegie Mellon University ], [ Yu-Chiang Frank Wang, National Taiwan University ], [ Yen-Cheng Liu & Zsolt Kira, Georgia Tech ] ,
 [ Jia-Bin Huang, Virginia Tech ] 
 
-# https://arxiv.org/pdf/1711.06025.pdf
-- Learning to Compare: Relation Network for Few-Shot Learning
+### Learning to Compare: Relation Network for Few-Shot Learning
+- https://arxiv.org/pdf/1711.06025.pdf
 - [ Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales, Queen Mary University of London ,University of Oxford , The University of Edinburgh ] 
 
 which is 
@@ -92,6 +91,7 @@ time will be measured using package "time"
 * 7. results are saved in directory below
 !xdg-open ./record/results.txt
 
+# How does it work? 
 설명 첨부할 것 ! 
 
 
