@@ -6,9 +6,9 @@
 
 # **Index** 
 ___
-> Source 
-> Steps to follow
-> How does it work? 
+* Source 
+* Steps to follow
+* How does it work? 
 ___
 
 
