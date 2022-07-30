@@ -1,6 +1,4 @@
 <img width="1400" alt="image" src="https://user-images.githubusercontent.com/102582915/181883910-d184bb2f-c83c-4286-a5a6-4cb81f18ffbe.png">
-*File updated-->07.30*
-
 # **Index**
 * Steps to follow
 * How does it work? 
