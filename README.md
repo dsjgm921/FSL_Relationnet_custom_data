@@ -66,7 +66,7 @@ further details such as research papers are in the link below README file.
 for 20 images per class(2) and 3270 times of iteration , it took 98 seconds to train. And the result accuracy is appoximately 80%. 
 Appliable for Real-time training and classification.
 
-<img width="1500" alt="스크린샷 2022-07-30 오후 3 41 06" src="https://user-images.githubusercontent.com/102582915/181878246-a3a881d0-6304-46dc-b939-562e18681ea9.png">
+<img width="500" alt="스크린샷 2022-07-30 오후 3 41 06" src="https://user-images.githubusercontent.com/102582915/181878246-a3a881d0-6304-46dc-b939-562e18681ea9.png">
 
 <img width="1500" alt="스크린샷 2022-07-30 오후 3 45 49" src="https://user-images.githubusercontent.com/102582915/181878453-1cd774b8-21c0-47b2-930e-2016222e90a1.png">
 
@@ -80,9 +80,9 @@ The problem becomes more easy when there are less class, and more data.
 # + adding some relish 
 with images created by GAN (image augmentation - predicting future sequence ), you can get more accuracy.  
 
-<img width="898" alt="스크린샷 2022-07-30 오후 3 38 04" src="https://user-images.githubusercontent.com/102582915/181878146-b0b80106-d4da-4e3d-938f-d465537fbe5a.png">
+<img width="1500" alt="스크린샷 2022-07-30 오후 3 38 04" src="https://user-images.githubusercontent.com/102582915/181878146-b0b80106-d4da-4e3d-938f-d465537fbe5a.png">
 
-<img width="803" alt="스크린샷 2022-07-30 오후 3 46 13" src="https://user-images.githubusercontent.com/102582915/181878433-946b8352-0bd2-4791-a9d8-e23bd622fc3e.png">
+<img width="1500" alt="스크린샷 2022-07-30 오후 3 46 13" src="https://user-images.githubusercontent.com/102582915/181878433-946b8352-0bd2-4791-a9d8-e23bd622fc3e.png">
 
 
 # Source and Research papers 
