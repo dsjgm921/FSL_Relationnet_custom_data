@@ -19,8 +19,8 @@ change directory to upper directory, run train.py
 you should pass args this way, and make changes in your way ( sample code will be attached ) 
 run time will be measured using package "time" 
 
-'''
-!python train.py --dataset "custom"\
+'''python
+print(!python train.py --dataset "custom"\
 --method relationnet\
 --test_n_way 2\
 --train_n_way 2\
@@ -28,7 +28,7 @@ run time will be measured using package "time"
 --num_classes 2\
 --start_epoch 0\
 --stop_epoch 5\
---save_freq 2
+--save_freq 2)
 '''
 
 5. < save train results(features) >
