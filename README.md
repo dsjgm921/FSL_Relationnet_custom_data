@@ -1,4 +1,4 @@
-<img width="1400" alt="image" src="https://user-images.githubusercontent.com/102582915/181883910-d184bb2f-c83c-4286-a5a6-4cb81f18ffbe.png">
+<img width="1500" alt="image" src="https://user-images.githubusercontent.com/102582915/181883910-d184bb2f-c83c-4286-a5a6-4cb81f18ffbe.png">
 
 # **Index**
 * Steps to follow
@@ -19,6 +19,7 @@ change directory to upper directory, run train.py
 you should pass args this way, and make changes in your way ( sample code will be attached ) 
 run time will be measured using package "time" 
 
+'''
 !python train.py --dataset "custom"\
 --method relationnet\
 --test_n_way 2\
@@ -28,6 +29,7 @@ run time will be measured using package "time"
 --start_epoch 0\
 --stop_epoch 5\
 --save_freq 2
+'''
 
 5. < save train results(features) >
 6. < convert train result file >
