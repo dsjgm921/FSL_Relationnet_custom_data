@@ -13,14 +13,14 @@
 _______
 # Steps ( For mor details , checkout tutorial folder and ipynb file ) 
 
-* 1. git clone this repo 
-* 2. prepare data set 
-* 3. change directory to custom data folder, run write_filelist.py , then ( base, novel, val ) json files will be made. 
+1. git clone this repo 
+2. prepare data set 
+3. change directory to custom data folder, run write_filelist.py , then ( base, novel, val ) json files will be made. 
 
 Overal tree structure of dataset you should prepare
 <img width="250" alt="스크린샷 2022-07-30 오후 1 33 31" src="https://user-images.githubusercontent.com/102582915/181872498-74e132b0-f609-4237-b1a4-5438e3706c52.png">
 
-* 4. < train > 
+4. < train > 
 change directory to upper directory, run train.py 
 you should pass args this way, and make changes in your way ( sample code will be attached ) 
 run time will be measured using package "time" 
@@ -35,9 +35,10 @@ run time will be measured using package "time"
 --stop_epoch 5\
 --save_freq 2
 
-* 5. < save train results(features) >
-* 6. < test with saved features > 
-* 7. results are saved in txt file 
+5. < save train results(features) >
+6. < convert train result file >
+7. < test with saved features > 
+8. results are saved in txt file 
 
 # How does it work? 
 
@@ -88,12 +89,11 @@ with images created by GAN (image augmentation - predicting future sequence ), y
 <img width="803" alt="스크린샷 2022-07-30 오후 3 46 13" src="https://user-images.githubusercontent.com/102582915/181878433-946b8352-0bd2-4791-a9d8-e23bd622fc3e.png">
 
 
-# Source 
+# Source and Research papers 
 ### This code is modified from wyharveychen's CloserLookFewshot 
-### https://github.com/wyharveychen/CloserLookFewShot
-### ICLR19' 
+- https://github.com/wyharveychen/CloserLookFewShot
+- ICLR19' 
 
-## Research paper from 
 ### A closer look at few shot classification 
 - https://arxiv.org/pdf/1904.04232.pdf
 - [ Wei-Yu Chen, Carnegie Mellon University ], [ Yu-Chiang Frank Wang, National Taiwan University ], [ Yen-Cheng Liu & Zsolt Kira, Georgia Tech ] ,
