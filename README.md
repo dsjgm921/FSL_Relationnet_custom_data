@@ -20,7 +20,7 @@ you should pass args this way, and make changes in your way ( sample code will b
 run time will be measured using package "time" 
 
 ```python
-print(!python train.py --dataset "custom"\
+!python train.py --dataset "custom"\
 --method relationnet\
 --test_n_way 2\
 --train_n_way 2\
@@ -28,7 +28,7 @@ print(!python train.py --dataset "custom"\
 --num_classes 2\
 --start_epoch 0\
 --stop_epoch 5\
---save_freq 2)
+--save_freq 2
 ```
 
 5. < save train results(features) >
