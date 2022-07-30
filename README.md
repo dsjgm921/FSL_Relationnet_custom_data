@@ -57,7 +57,7 @@ Through network matching , the embedded result and the model learns the loss in 
 As you can see in the image file the embedded data becomes linear seperable(right).
 Very neat and clever way to embed, compared to the shallow distance metric embedding(left).   
 
-<img width="404" alt="image" src="https://user-images.githubusercontent.com/102582915/181880256-c317f4e1-c636-483c-afa3-917f6dc659e5.png">
+<img width="1500" alt="image" src="https://user-images.githubusercontent.com/102582915/181880256-c317f4e1-c636-483c-afa3-917f6dc659e5.png">
 
 further details such as research papers are in the link below README file. 
 
@@ -66,15 +66,15 @@ further details such as research papers are in the link below README file.
 for 20 images per class(2) and 3270 times of iteration , it took 98 seconds to train. And the result accuracy is appoximately 80%. 
 Appliable for Real-time training and classification.
 
-<img width="444" alt="스크린샷 2022-07-30 오후 3 41 06" src="https://user-images.githubusercontent.com/102582915/181878246-a3a881d0-6304-46dc-b939-562e18681ea9.png">
+<img width="1500" alt="스크린샷 2022-07-30 오후 3 41 06" src="https://user-images.githubusercontent.com/102582915/181878246-a3a881d0-6304-46dc-b939-562e18681ea9.png">
 
-<img width="833" alt="스크린샷 2022-07-30 오후 3 45 49" src="https://user-images.githubusercontent.com/102582915/181878453-1cd774b8-21c0-47b2-930e-2016222e90a1.png">
+<img width="1500" alt="스크린샷 2022-07-30 오후 3 45 49" src="https://user-images.githubusercontent.com/102582915/181878453-1cd774b8-21c0-47b2-930e-2016222e90a1.png">
 
 My results scored higher accuracy compared to the results of the CUB,miniImageNet datasets.
 But it is somewhat anticipated result because, my custom dataset had less class and more images. ( less k , more n ) 
 The problem becomes more easy when there are less class, and more data.
 
-<img width="869" alt="스크린샷 2022-07-30 오후 4 31 03" src="https://user-images.githubusercontent.com/102582915/181880084-548911a5-7d7a-4bf6-9b1a-c1cca078bfe3.png">
+<img width="1500" alt="스크린샷 2022-07-30 오후 4 31 03" src="https://user-images.githubusercontent.com/102582915/181880084-548911a5-7d7a-4bf6-9b1a-c1cca078bfe3.png">
 
 
 # + adding some relish 
