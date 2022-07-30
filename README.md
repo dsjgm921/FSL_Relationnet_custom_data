@@ -1,21 +1,17 @@
 # FSL_Relationnet_custom_data
-
-*File not updated yet --> 08.01*
-*파일 아직 업로드 안했습니다* 
-
+*Image classification with relation_net with your custom data*
+*File updated --> 07.30*
 
 # **Index**
 * Source 
 * Steps to follow
 * How does it work? 
-
 _______
 
 # Source 
-Image classification with relation_net with your custom data 
- 
 ## This code is modified from wyharveychen's CloserLookFewshot 
 ### https://github.com/wyharveychen/CloserLookFewShot
+### ICLR19' 
 
 ## Research paper from 
 ### A closer look at few shot classification 
@@ -30,30 +26,15 @@ Image classification with relation_net with your custom data
 - [ Flood Sung, Yongxin Yang, Li Zhang, Tao Xiang, Philip H.S. Torr, Timothy M. Hospedales, Queen Mary University of London ,University of Oxford , The University of Edinburgh ] 
 
 
-Tree structure of this repository ( img 첨부 ) 
+Overal tree structure of this repository
+
+<img width="250" alt="스크린샷 2022-07-30 오후 1 33 31" src="https://user-images.githubusercontent.com/102582915/181872498-74e132b0-f609-4237-b1a4-5438e3706c52.png">
+
 
 # Steps 
 
 * 1. git clone this repo 
 * 2. prepare data set 
-
-it should be like this 
-
-directory 
-- class 1
--- img 1
--- img 2
--- img 3 
-- class 2
--- img 1
--- img 2
--- img 3 
-- class 3 
--- img 1
--- img 2
--- img 3 
-- write_filelist.py 
-
 * 3. change directory to custom data folder, run write_filelist.py , then ( base, novel, val ) json files will be made. 
 
 * 4. < train > 
